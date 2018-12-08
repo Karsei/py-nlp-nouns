@@ -36,10 +36,10 @@ from tweepy import Stream
 from tweepy.streaming import StreamListener
 
 # 트위터 API를 이용하기 위한 Key
-CONSUMER_KEY = 't3BbVMuIzeT4X87HXVnuYrqdY'
-CONSUMER_SECRET = 'BIpqobHxeC628AxHVojDczlUxhAztNCMQMWmSU98yKmlNwxBo7'
-OAUTH_ACCESS_TOKEN = '799211221710880769-pxTTp0tSaN3o8hwuzr7Jq1ogvbavfpm'
-OAUTH_ACCESS_SECRET = 'ziIKJQ08N8emrGoDKDo7zoFIfMB6KTEzjbzKEpo4u8ZAI'
+CONSUMER_KEY = '____CONSUMER_KEY____'
+CONSUMER_SECRET = '____CONSUMER_SECRET____'
+OAUTH_ACCESS_TOKEN = '____OAUTH_ACCESS_TOKEN____'
+OAUTH_ACCESS_SECRET = '____OAUTH_ACCESS_SECRET____'
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 * 로그 생성
